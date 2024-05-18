@@ -1,6 +1,6 @@
 # KotlinPy
 
-KotlinPy adds functions from python that is under the same name and is pre-made.
+KotlinPy adds functions from Python to help Python developers learn Kotlin in a familiar function enviroment.
 
 ## Functions
 
@@ -13,3 +13,9 @@ Some function include:
 - toLower()
 - input()
 - and more!
+
+KotlinPy also incudes custom functions like:
+
+- debug() - prints a debug message and line number
+- ascii() - returns a list of ascii characters
+- aand more!
