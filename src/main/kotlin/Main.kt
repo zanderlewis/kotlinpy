@@ -1,4 +1,4 @@
-package dev.wolfthedeveloper
+package io.github.zanderlewis.kotlinpy
 
 import kotlin.math.pow
 import kotlin.random.Random
